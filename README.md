@@ -8,3 +8,4 @@ A simple script for survey-bot in Amino
 * `"email"`: email of the bot account
 * `"password"`: password of the bot account
 * `"amino_name"`: amino id (for example: Anime)
+3. Run `bot.py`
