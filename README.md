@@ -2,7 +2,8 @@
 A simple script for survey-bot in Amino
 
 ## How to use?
-Open `params.json` and edit fields:
+1. Install Amino.Py library
+2. Open `params.json` and edit fields:
 * `"staff_chat"`: The id of the chat questions are going to be sent to
 * `"email"`: email of the bot account
 * `"password"`: password of the bot account
